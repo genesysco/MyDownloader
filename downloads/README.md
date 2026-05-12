@@ -1,7 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [Hiddify-Linux-x64](./Hiddify-Linux-x64)
-- [archive_20260512_163735](./archive_20260512_163735)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
